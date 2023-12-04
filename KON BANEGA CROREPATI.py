@@ -71,7 +71,7 @@ questions = [
     D) Mars ''', "a", 10000),
     (''' Question no 5, for 20000 rupees:
     Which one of the following is the smallest continent?
-    A) Australia 🇦🇺
+    A) Australia
 
     B) Africa 
 
